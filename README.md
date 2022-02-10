@@ -7,4 +7,6 @@
 <!---
 EduardoLozadaQuiroz/EduardoLozadaQuiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->Hola mi nombre es Eduardo Lozada Quiroz
+Me intere: Aprender cosas sobre programación web
+Actualmente estoy apren programacion web, python y bases de datos.
